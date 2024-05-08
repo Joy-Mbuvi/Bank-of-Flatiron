@@ -83,6 +83,41 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "id": 1714990260505,
+      "date": "1999-05-06",
+      "description": "happiness",
+      "category": "food",
+      "amount": "300"
+    },
+    {
+      "id": 1714991819546,
+      "date": "2024-05-08",
+      "description": "books",
+      "category": "leisure",
+      "amount": "500"
+    },
+    {
+      "id": 1714991869304,
+      "date": "2024-05-03",
+      "description": "waterbottle",
+      "category": "household",
+      "amount": "700"
+    },
+    {
+      "id": 1715000778732,
+      "date": "2024-05-06",
+      "description": "dress",
+      "category": "MET GALA",
+      "amount": "100000000"
+    },
+    {
+      "id": 1715158162253,
+      "date": "2024-05-01",
+      "description": "happy",
+      "category": "food",
+      "amount": "0.05"
     }
   ]
 }
